@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"d:\\CPP Programming\\CPP\\16_arrayChallenges\\test.cpp","tests":[{"id":1671290617526,"input":"3 12345678912345 a 334.23 14049.30493","output":"3\n12345678912345\na\n334.230\n14049.304930000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CPP Programming\\CPP\\16_arrayChallenges\\test.cpp","group":"local","local":true}

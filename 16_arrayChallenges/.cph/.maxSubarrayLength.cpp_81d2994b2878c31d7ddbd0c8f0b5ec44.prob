@@ -1,0 +1,1 @@
+{"name":"Local: maxSubarrayLength","url":"d:\\CPP Programming\\CPP\\16_arrayChallenges\\maxSubarrayLength.cpp","tests":[{"id":1671284310281,"input":"7\n10 7 4 6 8 10 11","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CPP Programming\\CPP\\16_arrayChallenges\\maxSubarrayLength.cpp","group":"local","local":true}
