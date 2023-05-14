@@ -1,0 +1,1 @@
+{"name":"Local: maxTilli","url":"d:\\CPP Programming\\CPP\\16_arrayChallenges\\maxTilli.cpp","tests":[{"id":1671281376445,"input":"5\n21\n65\n88\n66\n5","output":"21\n65\n88\n88\n88\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CPP Programming\\CPP\\16_arrayChallenges\\maxTilli.cpp","group":"local","local":true}
